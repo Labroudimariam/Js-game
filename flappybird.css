@@ -1,0 +1,12 @@
+
+body{
+    text-align: center;
+}
+
+
+#board{
+    background-image: url(flappybirdbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
